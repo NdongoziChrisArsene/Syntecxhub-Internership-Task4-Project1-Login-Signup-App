@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805500171982",
+    "project_id": "loginsignupapp-38976",
+    "storage_bucket": "loginsignupapp-38976.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805500171982:android:423c70c2f714c2e8d0829f",
+        "android_client_info": {
+          "package_name": "rw.ndongozi.loginsignupapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsPLXzDbho6XZoo5AdJP3M0EMq-xPrSNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

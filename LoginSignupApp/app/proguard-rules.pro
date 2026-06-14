@@ -1,0 +1,2 @@
+-keep class com.chrisarsene.loginapp.** { *; }
+-keep class com.google.firebase.** { *; }

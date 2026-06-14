@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4F46E5</color>
+    <color name="colorPrimaryDark">#3730A3</color>
+    <color name="colorAccent">#F59E0B</color>
+
+    <color name="bg_page">#F8FAFC</color>
+    <color name="bg_card">#FFFFFF</color>
+
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_hint">#94A3B8</color>
+
+    <color name="error_bg">#FEF2F2</color>
+    <color name="error_text">#DC2626</color>
+
+    <color name="success_bg">#F0FDF4</color>
+    <color name="success_text">#16A34A</color>
+
+    <color name="divider">#F1F5F9</color>
+    <color name="white">#FFFFFF</color>
+</resources>
